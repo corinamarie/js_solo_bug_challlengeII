@@ -1,0 +1,10 @@
+body {
+	background-color: yellow;
+	font-family: Courier, sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+
+li {
+	display: block;
+}
